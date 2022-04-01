@@ -2,7 +2,7 @@
 
 
 
-API desenvolvida em Node.js para o de JavaScript na Hcode.
+API desenvolvida em Node.js para o curso de JavaScript na Hcode.
 
 ### Instalação
 ```
